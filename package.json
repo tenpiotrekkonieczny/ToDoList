@@ -1,0 +1,26 @@
+{
+	"name": "ToDoList",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"lint": "eslint ./js",
+		"lint:fix": "eslint --fix ./js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tenpiotrekkonieczny/ToDoList.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/tenpiotrekkonieczny/ToDoList/issues"
+	},
+	"homepage": "https://github.com/tenpiotrekkonieczny/ToDoList#readme",
+	"devDependencies": {
+		"eslint": "^8.19.0",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-plugin-import": "^2.26.0"
+	}
+}
